@@ -1,5 +1,5 @@
 # Text-classification
-Text classification using various feature engineering methods and applying various algorithms like logistic, SVM, bagging and bossting methods adn also with Neural networks.
+Text classification using various feature engineering methods and applying various algorithms like logistic, SVM, Bagging and Boosting methods adn also with Neural networks.
 
 # Steps
 1. Dataset Preparation: The first step is the Dataset Preparation step which includes the process of loading a dataset and performing basic pre-processing. The dataset is then splitted into train and validation sets.
@@ -7,14 +7,14 @@ Text classification using various feature engineering methods and applying vario
 3. Model Training: The final step is the Model Building step in which a machine learning model is trained on a labelled dataset.
 
 # We will use the following methods for feature engineering.
-1 Count Vectors as features 
-2 TF-IDF Vectors as features
-  2.1 Word level
-  2.2 N-Gram level
-  2.3 Character level
-3 Word Embeddings as features
-4 Text / NLP based features
-5 Topic Models as features
+1 Count Vectors as features <br />
+2 TF-IDF Vectors as features <br />
+  2.1 Word level <br />
+  2.2 N-Gram level <br />
+  2.3 Character level <br />
+3 Word Embeddings as features <br />
+4 Text / NLP based features <br />
+5 Topic Models as features <br />
 
 # We will use the follwing classifiers:
 1 Naive Bayes Classifier
