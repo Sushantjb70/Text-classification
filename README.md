@@ -1,3 +1,4 @@
+<pre>
 # Text-classification
 Text classification using various feature engineering methods and applying various algorithms like logistic, SVM, Bagging and Boosting methods adn also with Neural networks.
 
@@ -30,3 +31,4 @@ Text classification using various feature engineering methods and applying vario
 11 Recurrent Convolutional Neural Network (RCNN) <br />
 
 The data is in corpus1.txt file.The data contains amazon reviews.
+</pre>
