@@ -37,3 +37,4 @@ Text classification using various feature engineering methods and applying vario
 </pre>
 The data is in corpus1.txt file.The data contains amazon reviews.
 
+Pre Trained model - https://fasttext.cc/docs/en/english-vectors.html
