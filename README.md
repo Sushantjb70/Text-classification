@@ -6,8 +6,8 @@ Text classification using various feature engineering methods and applying vario
 2. Feature Engineering: The next step is the Feature Engineering in which the raw dataset is transformed into flat features which can be used in a machine learning model. This step also includes the process of creating new features from the existing data.
 3. Model Training: The final step is the Model Building step in which a machine learning model is trained on a labelled dataset.
 
-We will use the following methods for feature engineering.
-1 Count Vectors as features \n
+# We will use the following methods for feature engineering.
+1 Count Vectors as features 
 2 TF-IDF Vectors as features
   2.1 Word level
   2.2 N-Gram level
@@ -16,7 +16,7 @@ We will use the following methods for feature engineering.
 4 Text / NLP based features
 5 Topic Models as features
 
-We will use the follwing classifiers:
+# We will use the follwing classifiers:
 1 Naive Bayes Classifier
 2 Linear Classifier
 3 Support Vector Machine
