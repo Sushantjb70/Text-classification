@@ -9,7 +9,7 @@ Text classification using various feature engineering methods and applying vario
 # We will use the following methods for feature engineering.
 1 Count Vectors as features <br />
 2 TF-IDF Vectors as features <br />
-  2.1 Word level <br />
+__2.1 Word level <br />
   2.2 N-Gram level <br />
   2.3 Character level <br />
 3 Word Embeddings as features <br />
@@ -17,16 +17,16 @@ Text classification using various feature engineering methods and applying vario
 5 Topic Models as features <br />
 
 # We will use the follwing classifiers:
-1 Naive Bayes Classifier
-2 Linear Classifier
-3 Support Vector Machine
-4 Bagging Models
-5 Boosting Models
-6 Shallow Neural Networks
-7 Convolutional Neural Network (CNN)
-8 Long Short Term Modelr (LSTM)
-9 Gated Recurrent Unit (GRU)
-10 Bidirectional RNN
-11 Recurrent Convolutional Neural Network (RCNN)
+1 Naive Bayes Classifier <br />
+2 Linear Classifier <br />
+3 Support Vector Machine <br />
+4 Bagging Models <br />
+5 Boosting Models <br />
+6 Shallow Neural Networks <br />
+7 Convolutional Neural Network (CNN) <br />
+8 Long Short Term Modelr (LSTM) <br />
+9 Gated Recurrent Unit (GRU) <br />
+10 Bidirectional RNN <br />
+11 Recurrent Convolutional Neural Network (RCNN) <br />
 
 The data is in corpus1.txt file.The data contains amazon reviews.
