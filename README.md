@@ -21,7 +21,7 @@ Text classification using various feature engineering methods and applying vario
 5 Topic Models as features <br />
 </pre>
 
-# We will use the follwing classifiers:
+# We will use the following classifiers:
 <pre>
 1 Naive Bayes Classifier <br />
 2 Linear Classifier <br />
