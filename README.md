@@ -9,7 +9,7 @@ Text classification using various feature engineering methods and applying vario
 # We will use the following methods for feature engineering.
 1 Count Vectors as features <br />
 2 TF-IDF Vectors as features <br />
-__2.1 Word level <br />
+  2.1 Word level <br />
   2.2 N-Gram level <br />
   2.3 Character level <br />
 3 Word Embeddings as features <br />
